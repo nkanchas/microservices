@@ -1,7 +1,7 @@
 # Eureka Server
 
 ## Technology
-Java 8, Spring Netflix Eureka<br/>
+Java 8, Spring Netflix Eureka <br/>
 
 ## Setup
 Step 1: Clone code <br/>
